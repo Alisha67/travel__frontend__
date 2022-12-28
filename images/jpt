@@ -1,0 +1,55 @@
+  <div class="animate">
+      <h4 class="text-center my-4">OUR SERVICES</h4>
+       <div class="row">
+        <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+          <div class="traveling-box">
+            <i>
+              <div class="logoimg"><img src="picture/travel-icon.png" alt="icon" height="120" width="120">
+            </i>
+          </div>
+          <h3>Different Countrys</h3>
+          <p> going to use a passage of Lorem Ipsum, you need to be </p>
+          <div class="read-more">
+            <a href="#" class="nav-link">Read More</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+        <div class="traveling-box">
+          <i>
+            <div class="logoimg"><img src="picture/travel-icon2.png" alt="icon" height="120" width="120">
+          </i>
+        </div>
+        <h3>Mountains Tours</h3>
+        <p> going to use a passage of Lorem Ipsum, you need to be </p>
+        <div class="read-more">
+          <a href="#" class="nav-link">Read More</a>
+        </div>
+      </div>
+    
+    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+      <div class="traveling-box">
+        <i>
+          <div class="logoimg"><img src="picture/travel-icon3.png" alt="icon" height="120" width="120">
+        </i>
+      </div>
+      <h3>Bus Tours</h3>
+      <p> going to use a passage of Lorem Ipsum, you need to be </p>
+      <div class="read-more">
+        <a href="#" class="nav-link">Read More</a>
+      </div>
+    </div>
+  
+  <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+    <div class="traveling-box">
+      <i>
+        <div class="logoimg"><img src="picture/travel-icon4.png" alt="icon" height="120" width="120">
+      </i>
+    </div>
+    <h3>Summer Rest</h3>
+    <p> going to use a passage of Lorem Ipsum, you need to be </p>
+    <div class="read-more">
+      <a href="#" class="nav-link">Read More</a>
+    </div>
+  </div>
+  </div>
